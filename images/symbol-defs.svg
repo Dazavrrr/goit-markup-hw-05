@@ -1,7 +1,7 @@
 <svg aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden" xmlns="http://www.w3.org/2000/svg">
     <defs>
-        <symbol id="icon-x" viewBox="0 0 32 32">
-            <path d="M32 3.223l-3.223-3.223-12.777 12.777-12.777-12.777-3.223 3.223 12.777 12.777-12.777 12.777 3.223 3.223 12.777-12.777 12.777 12.777 3.223-3.223-12.777-12.777 12.777-12.777z"></path>
+        <symbol id="x" viewBox="0 0 11 11">
+            <path d="M11 1.10786L9.89214 0L5.5 4.39214L1.10786 0L0 1.10786L4.39214 5.5L0 9.89214L1.10786 11L5.5 6.60786L9.89214 11L11 9.89214L6.60786 5.5L11 1.10786Z" />
         </symbol>
         <symbol id="astronaut" viewBox="0 0 32 32">
             <path d="M32 5V4h-2l-1-2h-1l-1 2h-2a1 1 0 0 0 0 1l1 1v3h1l1-1 2 1a1 1 0 0 0 1-1l-1-2 2-1zm-2 1h-1l1 1h-1a1 1 0 0 0-1 0h-1V6l-1-1h2V4l1 1h1v1zm-4 15h-1v1h1v-1zm0 2h-1v1h1v-1zm1-1h-1v1h1v-1zm-2 0h-1v1h1v-1zm-3 4h-1v1h1v-1zm0 3h-1v1h1v-1zm1-2h-1v2h1v-2zm-2 0h-1v2h1v-2zm-5-3h-1v1h1v-1zm0 2h-1v1h1v-1zm1-1h-1v1h1v-1zm-2 0h-1v1h1v-1zM6 6H5v1h1V6zm0 2H5v1h1V8zm1-1H6v1h1V7zM5 7H4v1h1V7z" />
